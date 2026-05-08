@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<testsuites>
+  <testsuite name="Artefakt05_ConsistencyTest" tests="2" timestamp="2026-05-08T22:03:10.324786">
+    <testcase name="test_package_identification" classname="ConsistencyTest"/>
+    <testcase name="test_ui_element_accessibility" classname="ConsistencyTest">
+      <failure message="Nie odnaleziono ID 'ACCESSIBILITY'. Sugestia: Zweryfikuj czy element nie zmieni³ nazwy na jedn¹ z dostêpnych: ['ACTION_BAR_TITLE', 'ACTION_BAR_SUBTITLE', 'ACTION_MODE_CLOSE_BUTTON'].">Nie odnaleziono ID 'ACCESSIBILITY'. Sugestia: Zweryfikuj czy element nie zmieni³ nazwy na jedn¹ z dostêpnych: ['ACTION_BAR_TITLE', 'ACTION_BAR_SUBTITLE', 'ACTION_MODE_CLOSE_BUTTON'].</failure>
+    </testcase>
+  </testsuite>
+</testsuites>
