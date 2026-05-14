@@ -1,0 +1,4 @@
+Test Execution Log:
+KROK 1: Sprawdzono widoczność tytułu - ID: title
+KROK 2: Kliknięto przycisk ADD - ID: add
+KROK 3: Wpisano tekst w pole wyszukiwania - ID: search_button
