@@ -1,0 +1,30 @@
+[
+  {
+    "library": "com.google.android.gms:10.0.1",
+    "severity": "HIGH",
+    "cve_id": "CVE-2021-4352",
+    "description": "Blad weryfikacji certyfikatu – mozliwe MITM",
+    "cvss": 7.5
+  },
+  {
+    "library": "com.squareup.okhttp:2.7.5",
+    "severity": "MEDIUM",
+    "cve_id": "CVE-2016-2402",
+    "description": "Podatnosc na Man-in-the-Middle przez brak pinning",
+    "cvss": 5.9
+  },
+  {
+    "library": "org.apache.commons:1.0.0",
+    "severity": "CRITICAL",
+    "cve_id": "CVE-2015-7501",
+    "description": "Zdalne wykonanie kodu (RCE) przez deserializacje Java",
+    "cvss": 9.8
+  },
+  {
+    "library": "com.android.support:25.0.0",
+    "severity": "LOW",
+    "cve_id": "CVE-2019-1234",
+    "description": "Wyciek informacji w logach systemowych",
+    "cvss": 3.1
+  }
+]

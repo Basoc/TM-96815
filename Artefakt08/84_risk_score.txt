@@ -1,0 +1,10 @@
+SECURITY SCORE: 0/100
+STATUS: REJECTED (Aplikacja niebezpieczna)
+
+Szczegoly odliczen:
+  [-30] Flaga Debuggable jest AKTYWNA (High Risk)
+  [-35] Znaleziono 7 ryzykownych uprawnien (LOW, -5 pkt kazde)
+  [-20] HIGH luka w com.google.android.gms:10.0.1 (CVE-2021-4352) – Blad weryfikacji certyfikatu – mozliwe MITM
+  [-10] MEDIUM luka w com.squareup.okhttp:2.7.5 (CVE-2016-2402) – Podatnosc na Man-in-the-Middle przez brak pinning
+  [-40] CRITICAL luka w org.apache.commons:1.0.0 (CVE-2015-7501) – Zdalne wykonanie kodu (RCE) przez deserializacje Java
+  [-5] LOW luka w com.android.support:25.0.0 (CVE-2019-1234) – Wyciek informacji w logach systemowych
